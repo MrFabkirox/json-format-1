@@ -1,0 +1,95 @@
+{
+  "isins": {
+    "AU000000ADN0": 1,
+    "AU000000AKM7"
+  },
+  "australias": {
+    "null": 1191
+  },
+  "sedols": {
+    "null": 1191
+  },
+  "raw": [
+    {
+      "__csvLine": 124,
+      "date": "2020-01-29T00:00:00.000Z",
+      "accountId": "P1640252",
+      "bookAccountId": "P1640252",
+      "bookName": "P1640252",
+      "code": {
+        "isin": "AU000000ADN0",
+        "exchangeMic": "XASX",
+        "exchangeReuters": "ASX"
+      },
+      "key": {
+        "quantityTotal": "1000",
+        "averagePriceLocal": "0"
+      },
+      "_insIdType": "RIC",
+      "custom": {
+        "settledVolume": "1000",
+        "unsettledVolume": "0"
+      },
+      "instrumentError": true,
+      "instrumentErrorStoreObjects": "[{}]",
+      "book": {
+        "_id": "5e1e8da33c00ac00127b5430"
+      },
+      "type": "daystart"
+    },
+    {
+      "__csvLine": 174,
+      "date": "2020-01-29T00:00:00.000Z",
+      "accountId": "P1640252",
+      "bookAccountId": "P1640252",
+      "bookName": "P1640252",
+      "code": {
+        "isin": "AU000000AKM7",
+        "exchangeMic": "XASX",
+        "exchangeReuters": "ASX"
+      },
+      "key": {
+        "quantityTotal": "1000",
+        "averagePriceLocal": "0"
+      },
+      "_insIdType": "RIC",
+      "custom": {
+        "settledVolume": "1000",
+        "unsettledVolume": "0"
+      },
+      "instrumentError": true,
+      "instrumentErrorStoreObjects": "[]",
+      "book": {
+        "_id": "5e1e8da33c00ac00127b5430"
+      },
+      "type": "daystart"
+    },
+    {
+      "__csvLine": 272,
+      "date": "2020-01-29T00:00:00.000Z",
+      "accountId": "P1640252",
+      "bookAccountId": "P1640252",
+      "bookName": "P1640252",
+      "code": {
+        "isin": "AU000000AUL8",
+        "exchangeMic": "XASX",
+        "exchangeReuters": "ASX"
+      },
+      "key": {
+        "quantityTotal": "1000",
+        "averagePriceLocal": "0"
+      },
+      "_insIdType": "RIC",
+      "custom": {
+        "settledVolume": "1000",
+        "unsettledVolume": "0"
+      },
+      "instrumentError": true,
+      "instrumentErrorStoreObjects": "[]",
+      "book": {
+        "_id": "5e1e8da33c00ac00127b5430"
+      },
+      "type": "daystart"
+    }
+  ]
+}

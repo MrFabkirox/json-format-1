@@ -1,0 +1,25 @@
+{
+  "isins": {
+    "AU000000ADN0": 1,
+    "AU000000AKM7"
+  },
+  "sedols": {
+    "null": 1191
+  },
+  "raw": [
+    {
+      "__csvLine": 124,
+      "code": {
+        "isin": "AU000000ADN0"
+      },
+      "type": "daystart"
+    },
+    {
+      "__csvLine": 174,
+      "code": {
+        "isin": "AU000000AKM7"
+      },
+      "type": "daystart"
+    }
+  ]
+}

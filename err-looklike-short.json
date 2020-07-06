@@ -1,0 +1,17 @@
+{
+  "field1": {
+    "field-1-1-key": "field-1-1-value",
+    "field-1-2-key": "field-1-2-value"
+  },
+  "field2": {
+    "field-2-key": "field-2-value"
+  },
+  "raw": [
+    {
+      "__csvLine": 124
+    },
+    {
+      "__csvLine": 174
+    }
+  ]
+}
